@@ -1,2 +1,2 @@
 # MTI820
-Bi Project
+BI Project
